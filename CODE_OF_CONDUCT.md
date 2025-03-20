@@ -28,10 +28,6 @@ Exemplos de comportamentos inaceitáveis incluem:
 
 Os mantenedores do projeto são responsáveis por esclarecer e fazer cumprir estes padrões. Eles têm o direito e a responsabilidade de remover, editar ou rejeitar comentários, commits, código, edições na wiki, issues e outras contribuições que não estejam alinhadas a este Código de Conduta.
 
-## Aplicação
-
-Casos de comportamento abusivo, de assédio ou de qualquer outra violação deste Código de Conduta podem ser relatados aos mantenedores do projeto pelo e-mail **[seu-email@example.com]**. Todas as reclamações serão revisadas e investigadas de forma criteriosa e resultarão em uma resposta apropriada.
-
 Os mantenedores do projeto têm a obrigação de manter a confidencialidade do denunciante e de qualquer informação sobre a denúncia.
 
 ## Atribuição
